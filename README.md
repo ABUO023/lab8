@@ -2,6 +2,8 @@
 
 XSL/XPath transformations and HTML anonymization exercises.
 
+Live demo : [https://lab8.adityabaindur.dev](https://lab8.adityabaindur.dev)
+
 ## Exercises
 
 **Exercise 1:** Music Library XSL transformation  
