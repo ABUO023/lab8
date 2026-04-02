@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <album>
+    <name>OK Computer</name>
+    <track id="1">
+      <name>Karma Police</name>
+      <artist>Radiohead</artist>
+      <genre>Alternative</genre>
+    </track>
+    <track id="2">
+      <name>Exit Music (For A Film)</name>
+      <artist>Radiohead</artist>
+      <genre>Alternative</genre>
+    </track>
+  </album>
+  <album>
+    <name>Dark Side Of The Moon</name>
+    <track id="3">
+      <name>Us And Them</name>
+      <artist>Pink Floyd</artist>
+      <genre>Progressive</genre>
+    </track>
+    <track id="4">
+      <name>Brain Damage</name>
+      <artist>Pink Floyd</artist>
+      <genre>Progressive</genre>
+    </track>
+  </album>
+  <album>
+    <name>Requiem</name>
+    <track id="5">
+      <name>Kyrie</name>
+      <artist>Wiener Philharmoniker - Herbert von Karajan</artist>
+      <composer>Wolfgang Amadeus Mozart</composer>
+      <genre>Classical</genre>
+    </track>
+  </album>
+  <album>
+    <name>African Guitar Summit</name>
+    <track id="6">
+      <name>Obaa Y Ewa</name>
+      <artist>Pa Joe</artist>
+      <genre>World</genre>
+    </track>
+    <track id="7">
+      <name>Mwajuma</name>
+      <artist>Adam Solomon</artist>
+      <genre>World</genre>
+    </track>
+  </album>
+</catalog>
